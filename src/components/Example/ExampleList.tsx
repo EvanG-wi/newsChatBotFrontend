@@ -6,9 +6,10 @@ const DEFAULT_EXAMPLES: string[] = [
     //"What was the price of the product with sku `FR-R92B-58`?",
     //"What is the SKU of HL Road Frame - Black?",
     //"What is HL Road Frame?"
-    "What do people think about the first use of the atomic bomb?",
-    "What are some jobs available? Make a bulleted list",
-    "Tell me about the greatest movie of the year"
+    "Will the United States remain allies with the Soviet Union after the war?",
+    "Tell me about new technological discoveries that are changing peoples day to day lives",
+    "What is the most overrated film? Why so?",
+    "How do you feel about Franklin Delano Roosevelt?"
 ];
 
 const GPT4V_EXAMPLES: string[] = [
