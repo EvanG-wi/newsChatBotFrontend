@@ -8,8 +8,7 @@ const DEFAULT_EXAMPLES: string[] = [
     //"What is HL Road Frame?"
     "Will the United States remain allies with the Soviet Union after the war?",
     "Tell me about new technological discoveries that are changing peoples day to day lives",
-    "What is the most overrated film? Why so?",
-    "How do you feel about Franklin Delano Roosevelt?"
+    "What is the most overrated film? Why so?"
 ];
 
 const GPT4V_EXAMPLES: string[] = [
